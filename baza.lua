@@ -1,7 +1,7 @@
 return {
     users = {
-        { login = "user", password = "password" },
+        { login = "ABT", A = "password" },
         { login = "artik", password = "star" },
-        { login = "Stumbled", password = "Bariga2025" },
+        
     }
 }
