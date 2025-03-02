@@ -1,6 +1,6 @@
 return {
     users = {
-        { login = "ABT", password = "A" },
+        { login = "0", password = "0" },
         { login = "artik", password = "N" },
         { login = "artik", password = "Nererlie" },
         
